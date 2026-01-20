@@ -159,9 +159,9 @@ async def check_quiz_answer(callback: CallbackQuery):
             )
         else:
             await save_quiz_result(user_id, False)
-            await callback.answer(f"❌ Çalňyş. Dogrysy: {correct_answer}", show_alert=True)
+            await callback.answer(f"❌ Ýalňyş. Dogrysy: {correct_answer}", show_alert=True)
             await callback.message.edit_text(
-                f"❌ **Çalňyşşň!**\n\nSorag: {questions[q_index]['soru']}\nDogry Jogap: {correct_answer}",
+                f"❌ **Ýalňyş!**\n\nSorag: {questions[q_index]['soru']}\nDogry Jogap: {correct_answer}",
                 parse_mode="Markdown"
             )
 
