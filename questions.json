@@ -73,5 +73,255 @@
         "soru": "Python-da synag (exception) dolandyrmak üçin haýsy açar söz ulanylýar?",
         "cevaplar": ["catch", "try", "error", "handle"],
         "dogru": "try"
+    },
+    {
+        "soru": "Python-da sanawa element goşmak üçin haýsy usul ulanylýar?",
+        "cevaplar": ["push()", "add()", "append()", "insert()"],
+        "dogru": "append()"
+    },
+    {
+        "soru": "Aşakdakylaryň haýsysy üýtgedilip bilinmeýän (immutable) maglumat görnüşidir?",
+        "cevaplar": ["List (Sanaw)", "Dictionary (Sözlük)", "Tuple (Kortej)", "Set (Toplum)"],
+        "dogru": "Tuple (Kortej)"
+    },
+    {
+        "soru": "Türkmen programmist hakykatda iň köp näme edýär?",
+        "cevaplar": ["Kod ýazýar", "Stack Overflow-da gözleg edýär", "Çaý içýär", "Ýalňyşlyklary düzedýär"],
+        "dogru": "Stack Overflow-da gözleg edýär"
+    },
+    {
+        "soru": "Python diliniň adynyň gelip çykyşy näme bilen baglanyşyklydyr?",
+        "cevaplar": ["Piton ýylany", "Monty Python komediya topary", "Pifagor", "Python şäheri"],
+        "dogru": "Monty Python komediya topary"
+    },
+    {
+        "soru": "Hakerlik sungatynda 'White Hat' haker diýilende näme düşünilýär?",
+        "cevaplar": ["Howply haker", "Zyýansyzlandyryş üçin işleýän haker", "Täze başlan haker", "Gizlin haker"],
+        "dogru": "Zyýansyzlandyryş üçin işleýän haker"
+    },
+    {
+        "soru": "Python-da '#' belgisi näme üçin ulanylýar?",
+        "cevaplar": ["Üýtgeýji yglan etmek", "Teswir ýazmak", "Funksiýa döretmek", "Salgylanma"],
+        "dogru": "Teswir ýazmak"
+    },
+    {
+        "soru": "Programmistiň iň gowy dosty hasaplanýan zat näme?",
+        "cevaplar": ["Kompýuter", "Klawiatura", "Kofe", "Dokumentasiýa"],
+        "dogru": "Dokumentasiýa"
+    },
+    {
+        "soru": "SQL injeksiýa haçan bolup biler?",
+        "cevaplar": ["Ulanyjynyň giriş maglumatlary dogry barlanmaýanda", "Parol gaty gysga bolanda", "Internet ýaýdyr", "Kompýuter köne bolanda"],
+        "dogru": "Ulanyjynyň giriş maglumatlary dogry barlanmaýanda"
+    },
+    {
+        "soru": "Python-da 'print()' funksiýasy näme iş ýerine ýetirýär?",
+        "cevaplar": ["Faýl çap edýär", "Ekrana maglumat çykarýar", "Printer başladýar", "Kod formatlaýar"],
+        "dogru": "Ekrana maglumat çykarýar"
+    },
+    {
+        "soru": "Dünýäde iň meşhur programmirleme dili bäsleşiginiň ady näme?",
+        "cevaplar": ["CodeWars", "Google Code Jam", "Hackathon", "ICPC (International Collegiate Programming Contest)"],
+        "dogru": "ICPC (International Collegiate Programming Contest)"
+    },
+    {
+        "soru": "Python-da döwür (loop) döretmek üçin haýsy açar söz ulanylmaýar?",
+        "cevaplar": ["for", "while", "repeat", "break"],
+        "dogru": "repeat"
+    },
+    {
+        "soru": "Dünýäniň ilkinji programmisti kim hasaplanýar?",
+        "cevaplar": ["Bill Gates", "Ada Lovelace", "Steve Jobs", "Alan Turing"],
+        "dogru": "Ada Lovelace"
+    },
+    {
+        "soru": "Firewall näme üçin niýetlenendir?",
+        "cevaplar": ["Kompýuteri sowatmak", "Zyýanly programmalary ýok etmek", "Tor aragatnaşygyny goramak", "Grafiki gowulandyrmak"],
+        "dogru": "Tor aragatnaşygyny goramak"
+    },
+    {
+        "soru": "Python-da True we False aşakdaky haýsy maglumat görnüşine degişlidir?",
+        "cevaplar": ["String (Setir)", "Integer (Bitewi san)", "Boolean (Logiki)", "Float (Onluk san)"],
+        "dogru": "Boolean (Logiki)"
+    },
+    {
+        "soru": "Programmistiň gijeki sagat 3-de işleýän wagtyna näme diýilýär?",
+        "cevaplar": ["Öndürijilik sagady", "Bug fixing wagty", "Ballyhoo mode", "Tolkun döwri"],
+        "dogru": "Ballyhoo mode"
+    },
+    {
+        "soru": "GitHub näme üçin ulanylýar?",
+        "cevaplar": ["Oýun oýnamak", "Wideo görmek", "Kod paýlaşmak we hyzmatdaşlyk etmek", "Surat redaktirlemek"],
+        "dogru": "Kod paýlaşmak we hyzmatdaşlyk etmek"
+    },
+    {
+        "soru": "Phishing hüjümi näme arkaly amala aşyrylýar?",
+        "cevaplar": ["Kompýuteri süýşürmek", "Aldawly e-mail ýa-da web sahypa", "Wirus ýaýratmak", "Parol döwmek"],
+        "dogru": "Aldawly e-mail ýa-da web sahypa"
+    },
+    {
+        "soru": "Python-da 'def' açar sözi näme üçin ulanylýar?",
+        "cevaplar": ["Üýtgeýji kesgitlemek", "Funksiýa döretmek", "Maglumaty pozmak", "Faýl açmak"],
+        "dogru": "Funksiýa döretmek"
+    },
+    {
+        "soru": "Ilkinji kompýuter wirusy haçan döredildi?",
+        "cevaplar": ["1971-nji ýylda", "1990-njy ýylda", "2000-nji ýylda", "1950-nji ýylda"],
+        "dogru": "1971-nji ýylda"
+    },
+    {
+        "soru": "Aşakdaky haýsy element HTML-iň düzüm elementi däldir?",
+        "cevaplar": ["<div>", "<span>", "<loop>", "<table>"],
+        "dogru": "<loop>"
+    },
+    {
+        "soru": "Python-da 'lambda' funksiýasy näme üçin ulanylýar?",
+        "cevaplar": ["Anonim funksiýa döretmek", "Faýl okamak", "Modul import etmek", "Wagt ölçemek"],
+        "dogru": "Anonim funksiýa döretmek"
+    },
+    {
+        "soru": "SQL-de 'INNER JOIN' näme iş ýerine ýetirýär?",
+        "cevaplar": ["Tablisalary birleşdirýär", "Maglumatlary pozýar", "Indeks döredýär", "Tablisa döredýär"],
+        "dogru": "Tablisalary birleşdirýär"
+    },
+    {
+        "soru": "Kriptografiýada RSA algoritmi esasan näme üçin ulanylýar?",
+        "cevaplar": ["Maglumatlary gysyş", "Açyk açar şifrlemesi", "Maglumat bazasyny dolandyryş", "Grafiki renders"],
+        "dogru": "Açyk açar şifrlemesi"
+    },
+    {
+        "soru": "Python-da '__init__' usuly näme üçin niýetlenendir?",
+        "cevaplar": ["Programmany başlatmak", "Klass konstruktory (başlatmak)", "Faýl ýapmak", "Ýalňyşlyk dolandyrmak"],
+        "dogru": "Klass konstruktory (başlatmak)"
+    },
+    {
+        "soru": "DDoS hüjüminde 'D' harpy näme aňladýar?",
+        "cevaplar": ["Digital", "Distributed (Paýlanan)", "Dangerous", "Direct"],
+        "dogru": "Distributed (Paýlanan)"
+    },
+    {
+        "soru": "Aşakdaky haýsy algoritm hasaplama çylşyrymlylygy O(n log n) bolan tertiplemek algoritmidir?",
+        "cevaplar": ["Bubble Sort", "Merge Sort", "Selection Sort", "Linear Search"],
+        "dogru": "Merge Sort"
+    },
+    {
+        "soru": "SQL Injection hüjüminden goramak üçin haýsy usul has ygtybarlydyr?",
+        "cevaplar": ["Input uzynlygyny çäklendirmek", "Prepared statements ulanmak", "HTTPS ulanmak", "Parol güýçlendirmek"],
+        "dogru": "Prepared statements ulanmak"
+    },
+    {
+        "soru": "Python-da 'yield' açar sözi haýsy aýratynlyk bilen baglanyşyklydyr?",
+        "cevaplar": ["Exception handling", "Generator funksiýalar", "Class inheritance", "Module import"],
+        "dogru": "Generator funksiýalar"
+    },
+    {
+        "suru": "Man-in-the-Middle (MITM) hüjüminde haker näme edýär?",
+        "cevaplar": ["Parol döwýär", "Iki tarapyň arasynda aragatnaşygy bökdeýär", "Wirus ýaýradýar", "Faýllary gizlin saklaýar"],
+        "dogru": "Iki tarapyň arasynda aragatnaşygy bökdeýär"
+    },
+    {
+        "soru": "REST API-de 'PUT' HTTP usuly adatça näme üçin ulanylýar?",
+        "cevaplar": ["Täze maglumat goşmak", "Bar bolan maglumaty täzelemek", "Maglumaty pozmak", "Maglumaty okamak"],
+        "dogru": "Bar bolan maglumaty täzelemek"
+    },
+    {
+        "soru": "Python-da haýsy built-in funksiýa sanawdaky elementleriň sanyny qaýtarýar?",
+        "cevaplar": ["count()", "len()", "size()", "length()"],
+        "dogru": "len()"
+    },
+    {
+        "soru": "Python-da dictionary-den açar (key) boýunça bahany almak üçin haýsy usul has howpsuz?",
+        "cevaplar": ["dict[key]", "dict.get(key)", "dict.find(key)", "dict.search(key)"],
+        "dogru": "dict.get(key)"
+    },
+    {
+        "soru": "Python-da setiriň ähli harplaryny kiçi (lowercase) öwürmek üçin haýsy usul ulanylýar?",
+        "cevaplar": [".lowercase()", ".lower()", ".toLower()", ".small()"],
+        "dogru": ".lower()"
+    },
+    {
+        "soru": "Python-da iki sanawy birleşdirmek üçin haýsy operator ulanylýar?",
+        "cevaplar": ["&", "+", "*", "||"],
+        "dogru": "+"
+    },
+    {
+        "soru": "Python-da random san döretmek üçin haýsy moduly import etmeli?",
+        "cevaplar": ["math", "random", "numbers", "generate"],
+        "dogru": "random"
+    },
+    {
+        "soru": "Python-da setiriň başyndaky we ahyryndaky boşluklary aýyrmak üçin haýsy usul ulanylýar?",
+        "cevaplar": [".remove()", ".strip()", ".clean()", ".trim()"],
+        "dogru": ".strip()"
+    },
+    {
+        "soru": "Python-da faýly okamak üçin açmak modu haýsy harpdir?",
+        "cevaplar": ["'w'", "'r'", "'o'", "'x'"],
+        "dogru": "'r'"
+    },
+    {
+        "soru": "Python-da sanawdaky iň uly elementi tapmak üçin haýsy funksiýa ulanylýar?",
+        "cevaplar": ["maximum()", "max()", "largest()", "top()"],
+        "dogru": "max()"
+    },
+    {
+        "soru": "Python-da setiri tersineleşdirmek üçin haýsy slicing usuly dogrudyr?",
+        "cevaplar": ["string[0:-1]", "string[-1:0]", "string[::-1]", "string[::1]"],
+        "dogru": "string[::-1]"
+    },
+    {
+        "soru": "Python-da üýtgeýjäniň maglumat görnüşini anyklamak üçin haýsy funksiýa ulanylýar?",
+        "cevaplar": ["typeof()", "type()", "datatype()", "vartype()"],
+        "dogru": "type()"
+    },
+    {
+        "soru": "Dünýäde iň köp ulanylýan programmirleme dili haýsy?",
+        "cevaplar": ["Python", "JavaScript", "Java", "C++"],
+        "dogru": "JavaScript"
+    },
+    {
+        "soru": "Linux operasion ulgamynyň döredijisi kim?",
+        "cevaplar": ["Bill Gates", "Linus Torvalds", "Steve Wozniak", "Dennis Ritchie"],
+        "dogru": "Linus Torvalds"
+    },
+    {
+        "soru": "Silicon Valley nirede ýerleşýär?",
+        "cevaplar": ["Nýu-Ýork", "Texas", "Kaliforniýa", "Florida"],
+        "dogru": "Kaliforniýa"
+    },
+    {
+        "soru": "Ýapyk çeşme (closed source) programma üpjünçiligine garşy açyk çeşme (open source) hereketiniň esasy maksady näme?",
+        "cevaplar": ["Gymmat satmak", "Kod erkin elýeterli bolmaly", "Diňe kompaniýalar peýdalanmaly", "Parol goramak"],
+        "dogru": "Kod erkin elýeterli bolmaly"
+    },
+    {
+        "soru": "WWW (World Wide Web) näme üçin döredildi?",
+        "cevaplar": ["Harby aragatnaşyk", "Ylmy maglumatlary paýlaşmak", "Oýun oýnamak", "Pul geçirmek"],
+        "dogru": "Ylmy maglumatlary paýlaşmak"
+    },
+    {
+        "soru": "Stackoverflow programmistler üçin näme bolup durýar?",
+        "cevapars": ["Oýun platformasy", "Sorag-jogap we kömek platformasy", "Iş tapmak sahypasy", "Video görkeziş sahypasy"],
+        "dogru": "Sorag-jogap we kömek platformasy"
+    },
+    {
+        "soru": "Bitcoin haçan döredildi?",
+        "cevaplar": ["2005", "2009", "2015", "2001"],
+        "dogru": "2009"
+    },
+    {
+        "soru": "Turing testi näme üçin niýetlenendir?",
+        "cevaplar": ["Internet tizligini ölçemek", "Maşynyň intellektini barlamak", "Parol berkligini barlamak", "Programma ýalňyşlygyny tapmak"],
+        "dogru": "Maşynyň intellektini barlamak"
+    },
+    {
+        "soru": "ChatGPT haýsy kompaniýa tarapyndan döredildi?",
+        "cevaplar": ["Google", "Meta", "OpenAI", "Microsoft"],
+        "dogru": "OpenAI"
+    },
+    {
+        "soru": "Kiberhowpsuzlykda 'Zero-day' ätiýaçlygy näme aňladýar?",
+        "cevaplar": ["Täze programma", "Entek düzedilmedik howpsuzlyk gowşaklygy", "Mugt programma", "Täze kompýuter wirusy"],
+        "dogru": "Entek düzedilmedik howpsuzlyk gowşaklygy"
     }
 ]
